@@ -1,0 +1,1 @@
+OrdenPedido - tienda=Tienda - codigo= T-01, nombre=Tienda de Josefa, fecha=2022-09-06, detalles=[[Producto - código=P-01, nombre=Arroz Diana, valor unitario=5000.0, cantidadPedida=10, valorTotal=50000.0, Producto - código=P-02, nombre=Chorizo El Duque, valor unitario=3500.0, cantidadPedida=30, valorTotal=105000.0]]

@@ -1,0 +1,2 @@
+P-01,Arroz Diana,5000
+P-02,Chorizo El Duque,3500
